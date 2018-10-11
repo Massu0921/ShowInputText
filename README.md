@@ -1,0 +1,2 @@
+# ShowInputText
+inputされたテキストをtkinterで表示
